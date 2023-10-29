@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+#produto {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 4px #888;
+}
+
+#produto p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 6px #888;
+    background-color: rgb(156, 76, 221);
+}
+
+.card p {
+    text-align: center;
+    font-size: 16px;
+    margin: 10px 0;
+    color: white;
+}
