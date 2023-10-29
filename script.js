@@ -17,8 +17,7 @@ const produtosMusicais = [
   ];
   
   const produtosContainer = document.getElementById("produtos-container");
-  
-  // Loop para criar cards para cada produto
+
   for (let i = 0; i < produtosMusicais.length; i++) {
     const produto = produtosMusicais[i];
   
